@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu 3D.unity
+    guid: 3f8a816e5e8e71d45b618550af53650e
+  - enabled: 1
+    path: Assets/Scenes/MultiPlayer.unity
+    guid: c5709c70c44147642aeea8ecd99d2f6e
+  - enabled: 1
+    path: Assets/Scenes/server.unity
+    guid: cd9bf326d9105894985307c99c8fa22e
+  - enabled: 1
+    path: Assets/Scenes/server_gui.unity
+    guid: 263b4665261a5304988ad033df42df0f
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayer.unity
+    guid: 53cec0da172071346b9a0c5a0975b530
+  - enabled: 1
+    path: Assets/Scenes/SinglePlayer_gui.unity
+    guid: 8c2b09aac6a76e845a7642fab8ae9157
+  - enabled: 1
+    path: Assets/Scenes/Relic Recovery/fieldElements.unity
+    guid: dc7b1614a88203b47bcfcb58e3d8bdc3
+  - enabled: 1
+    path: Assets/Scenes/MultiPlayer_gui.unity
+    guid: 63adbedb44818574099dd80603a181e0
+  - enabled: 1
+    path: Assets/Scenes/Relic Recovery/Scoring.unity
+    guid: 00fd0489d8a3db54c8e7770f5d1e4e2f
+  - enabled: 1
+    path: Assets/Scenes/Rover Ruckus/fieldElements.unity
+    guid: 61f2b67c2a0608a448c69d8b61e59796
+  - enabled: 1
+    path: Assets/Scenes/Rover Ruckus/Scoring.unity
+    guid: a4db00906c912fa47a2ce1c257324325
+  - enabled: 1
+    path: Assets/Scenes/Splish Splash/fieldElements.unity
+    guid: aee87534fa7784e4aab04dafb1799554
+  - enabled: 1
+    path: Assets/Scenes/Splish Splash/Scoring.unity
+    guid: 84f9aa25f34d90c4a949f0c84f4754de
+  - enabled: 1
+    path: Assets/Scenes/Skystone/fieldElements.unity
+    guid: 3b2eb7999419b734fa64a46df91d573f
+  - enabled: 1
+    path: Assets/Scenes/Skystone/Scoring.unity
+    guid: 0c170b9fd7684bf449dc20f5411a37e1
+  - enabled: 1
+    path: Assets/Scenes/Infinite Recharge/fieldElements.unity
+    guid: bf18b3b42f5f78a458e2df21e4d2b5cf
+  - enabled: 1
+    path: Assets/Scenes/Infinite Recharge/field.unity
+    guid: c470722676005d343add59083c8ee8a6
+  - enabled: 1
+    path: Assets/Scenes/Infinite Recharge/Scoring.unity
+    guid: 56abd6978fb935344928d077bee3ccdc
+  - enabled: 1
+    path: Assets/Scenes/Splish Splash/field.unity
+    guid: 0e577f3bcb6330247a4e48015a9a1027
+  - enabled: 1
+    path: Assets/Scenes/Skystone/field.unity
+    guid: 5158760692de1dd469b5f10ab2decd6e
+  - enabled: 1
+    path: Assets/Scenes/Rover Ruckus/field.unity
+    guid: 7aec578644c41ee4eaa832891e0c54f1
+  - enabled: 1
+    path: Assets/Scenes/Relic Recovery/field.unity
+    guid: 1e289500a25725143acb2fc9dae05240
+  - enabled: 1
+    path: Assets/Scenes/Change Up/field.unity
+    guid: a08ed74f34ded9d4ab89f76d62264c93
+  - enabled: 1
+    path: Assets/Scenes/Change Up/fieldElements.unity
+    guid: 9d2a3f6da5627364a85db008557a0f58
+  - enabled: 1
+    path: Assets/Scenes/Change Up/Scoring.unity
+    guid: 33accdf2f0a894a488d25c340b309a83
+  - enabled: 1
+    path: Assets/Scenes/Bot Royale/field_big.unity
+    guid: b1f38110de3e66d47a4f080024d105c4
+  - enabled: 1
+    path: Assets/Scenes/Bot Royale/fieldElements.unity
+    guid: d5d393f330bef0e4ca2e339fc6ce470a
+  - enabled: 1
+    path: Assets/Scenes/Bot Royale/Scoring.unity
+    guid: 62785db5f9c9e2e43a350ee1092e9a06
+  - enabled: 1
+    path: Assets/Scenes/Bot Royale/field.unity
+    guid: 7100c40d719babe4f8b6324e10ee4654
+  - enabled: 1
+    path: Assets/Scenes/Ultimate Goal/field.unity
+    guid: 0fbf6634aa141454badf128286a35775
+  - enabled: 1
+    path: Assets/Scenes/Ultimate Goal/fieldElements.unity
+    guid: 90ec02041c99d414bbcb54dcc329854b
+  - enabled: 1
+    path: Assets/Scenes/Ultimate Goal/Scoring.unity
+    guid: f2be6cd5c294786488f88cc41c318026
+  - enabled: 1
+    path: Assets/Scenes/Tipping Point/field.unity
+    guid: dc5f6fab113699e418745392c8563667
+  - enabled: 1
+    path: Assets/Scenes/Tipping Point/fieldElements.unity
+    guid: f10f4cba32a46fd499e0acaa973af2b3
+  - enabled: 1
+    path: Assets/Scenes/Tipping Point/Scoring.unity
+    guid: 22643e4e3f971d043b983f47e30b3bd6
+  - enabled: 1
+    path: Assets/Scenes/Freight Frenzy/field.unity
+    guid: d0675b585e8971241b04bf5a9f16705f
+  - enabled: 1
+    path: Assets/Scenes/Freight Frenzy/fieldElements.unity
+    guid: 68ab75d5827449e49a20aaf4516efdb4
+  - enabled: 1
+    path: Assets/Scenes/Freight Frenzy/Scoring.unity
+    guid: d697f0490131c6b4ca20f4c6d38bc2c4
+  - enabled: 1
+    path: Assets/Scenes/Rapid React/field.unity
+    guid: bbbcaf914cc673245bd624e07e679b1a
+  - enabled: 1
+    path: Assets/Scenes/Rapid React/fieldElements.unity
+    guid: 98df1acf65b7b2e47a0d5e82b86f3292
+  - enabled: 1
+    path: Assets/Scenes/Rapid React/Scoring.unity
+    guid: c8163322d7fc06c41b4dab3758d823a3
+  m_configObjects: {}

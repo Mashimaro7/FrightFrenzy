@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 328b869b05551f948aaeb0eaefa40392
+timeCreated: 1642473479
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: FolderIcon
+  - first:
+      213: 21300002
+    second: ForwardArrow
+  - first:
+      213: 21300004
+    second: SimpleFileBrowserDrag
+  - first:
+      213: 21300006
+    second: SimpleFileBrowserSlicedBackground5
+  - first:
+      213: 21300008
+    second: MultiSelectionToggleOn
+  - first:
+      213: 21300010
+    second: DefaultFileIcon
+  - first:
+      213: 21300012
+    second: SimpleFileBrowserMoreOptions
+  - first:
+      213: 21300014
+    second: Checkmark
+  - first:
+      213: 21300016
+    second: SimpleFileBrowserSlicedBackground2
+  - first:
+      213: 21300018
+    second: SimpleFileBrowserSlicedBackground4
+  - first:
+      213: 21300020
+    second: SimpleFileBrowserSlicedBackground3
+  - first:
+      213: 21300022
+    second: DriveIcon
+  - first:
+      213: 21300024
+    second: MultiSelectionToggleOff
+  - first:
+      213: 21300026
+    second: ImageFileIcon
+  - first:
+      213: 21300028
+    second: TextFileIcon
+  - first:
+      213: 21300030
+    second: SimpleFileBrowserSlicedBackground1
+  - first:
+      213: 21300032
+    second: DropdownArrow
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 128
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 86.48649
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FolderIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -14}
+        - {x: -16, y: 14}
+        - {x: 16, y: 14}
+        - {x: 16, y: -14}
+      physicsShape:
+      - - {x: 14, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -12}
+        - {x: -14, y: -14}
+        - {x: 12, y: -14}
+        - {x: 16, y: -10}
+        - {x: 16, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7195e7dde014c018eff3f306978df79
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardArrow
+      rect:
+        serializedVersion: 2
+        x: 68.07612
+        y: 0.0761205
+        width: 31.84776
+        height: 29.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -15}
+        - {x: -16, y: -9}
+        - {x: -16, y: 15}
+        - {x: 7, y: 15}
+        - {x: 16, y: 1}
+        - {x: 16, y: -1}
+        - {x: 2, y: -15}
+      physicsShape:
+      - - {x: -16, y: -8}
+        - {x: -4, y: -14}
+        - {x: 3, y: -14}
+        - {x: 15, y: -4}
+        - {x: 15, y: 1}
+        - {x: 5, y: 14}
+        - {x: -5, y: 14}
+        - {x: -16, y: 9.999999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421e73f5c19446efae20fd2ca75e48b2
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFileBrowserDrag
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 92
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -1, y: 8}
+        - {x: -8, y: 0}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa3a7f5705a44cf816e1bf068b2d976
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFileBrowserSlicedBackground5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 6}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b540ff838769427ea8bc6a890f24de87
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiSelectionToggleOn
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2465ff67efd840e5a3f0c591d1cd8ff8
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefaultFileIcon
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -16}
+        - {x: -12, y: 16}
+        - {x: 12, y: 16}
+        - {x: 12, y: -16}
+      physicsShape:
+      - - {x: -9.999999, y: 15}
+        - {x: -12, y: 13}
+        - {x: -12, y: -15}
+        - {x: 12, y: -15}
+        - {x: 12, y: 8}
+        - {x: 4, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49630013ac38487cae7fbc78491db096
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFileBrowserMoreOptions
+      rect:
+        serializedVersion: 2
+        x: 0.07612038
+        y: 92.07612
+        width: 10.84776
+        height: 30.84776
+      alignment: 9
+      pivot: {x: 0.5460925, y: 0.4837914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: -15.5}
+        - {x: -5.5, y: -15.5}
+        - {x: -5.5, y: 15.5}
+        - {x: 2.5, y: 15.5}
+        - {x: 5.5, y: 14.5}
+      physicsShape:
+      - - {x: -5.5, y: -15.5}
+        - {x: 5.5, y: -15.5}
+        - {x: 5.5, y: 15.5}
+        - {x: -4.5, y: 15.5}
+        - {x: -5.5, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279a7036480a44d48ae9429bc9944901
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkmark
+      rect:
+        serializedVersion: 2
+        x: 34.07612
+        y: 68.07612
+        width: 24.88097
+        height: 21.84776
+      alignment: 9
+      pivot: {x: 0.5194283, y: 0.5457713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.516606, y: -11}
+        - {x: -12.51661, y: -5}
+        - {x: -12.51661, y: 4}
+        - {x: -6.516606, y: 7}
+        - {x: 5.483394, y: 11}
+        - {x: 11.48339, y: 11}
+        - {x: 12.48339, y: 8}
+        - {x: 12.48339, y: 0}
+        - {x: 4.483394, y: -11}
+      physicsShape:
+      - - {x: 5.483393, y: 10}
+        - {x: -10.51661, y: 5}
+        - {x: -11.51661, y: 3}
+        - {x: -11.51661, y: -3}
+        - {x: -2.516606, y: -10}
+        - {x: 1.483394, y: -10}
+        - {x: 12.48339, y: 2}
+        - {x: 12.48339, y: 5}
+        - {x: 10.48339, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292382ce88845c28b3c98a7426098e4
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFileBrowserSlicedBackground2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 66
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1d2347cba04bb39ac5083c1f578f28
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFileBrowserSlicedBackground4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 84
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f7d27e937e49c4aa14250208f5c4c3
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFileBrowserSlicedBackground3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 84
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398b4faece064b55a2a140fa94431f74
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64.05132
+        width: 32
+        height: 25.93983
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4991814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -13.02123}
+        - {x: -16, y: -7.021235}
+        - {x: -16, y: 5.978765}
+        - {x: -14, y: 7.978765}
+        - {x: -5, y: 12.97877}
+        - {x: 0, y: 12.97877}
+        - {x: 16, y: 5.978765}
+        - {x: 16, y: -7.021235}
+        - {x: 4, y: -13.02123}
+      physicsShape:
+      - - {x: -3, y: 11.97877}
+        - {x: -15, y: 6.978765}
+        - {x: -15, y: -2.021235}
+        - {x: -2, y: -12.02123}
+        - {x: 5, y: -12.02123}
+        - {x: 16, y: -6.021235}
+        - {x: 16, y: 5.978765}
+        - {x: 4, y: 11.97877}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b68f6a117c840ef93b109f7c22fac47
+      internalID: 21300022
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MultiSelectionToggleOff
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: -16, y: -16}
+        - {x: -16, y: 16}
+        - {x: 16, y: 16}
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98653f239ff644098a287598a7363b9c
+      internalID: 21300024
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageFileIcon
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 32
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -16}
+        - {x: -14.5, y: 16}
+        - {x: 14.5, y: 16}
+        - {x: 14.5, y: -16}
+      physicsShape:
+      - - {x: -14.5, y: 16}
+        - {x: -14.5, y: -16}
+        - {x: 14.5, y: -16}
+        - {x: 14.5, y: 9.999999}
+        - {x: 9.5, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0526904346429aaa67558948d7a36b
+      internalID: 21300026
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextFileIcon
+      rect:
+        serializedVersion: 2
+        x: 99.07612
+        y: 32
+        width: 27.84776
+        height: 31.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5011922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -15.96194}
+        - {x: -14, y: -15.96194}
+        - {x: -14, y: 14.03806}
+        - {x: -12, y: 16.03806}
+        - {x: 12, y: 16.03806}
+        - {x: 14, y: 15.03806}
+      physicsShape:
+      - - {x: -11, y: 16.03806}
+        - {x: -14, y: 13.03806}
+        - {x: -14, y: -12.96194}
+        - {x: -11, y: -15.96194}
+        - {x: 11, y: -15.96194}
+        - {x: 14, y: -12.96194}
+        - {x: 14, y: 13.03806}
+        - {x: 11, y: 16.03806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce734b695447a2a6d78b36d683ee50
+      internalID: 21300028
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimpleFileBrowserSlicedBackground1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 66
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -7}
+        - {x: -7, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f15b143b204d629c079688a8871914
+      internalID: 21300030
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DropdownArrow
+      rect:
+        serializedVersion: 2
+        x: 13.07612
+        y: 92.05412
+        width: 23.84776
+        height: 13.88614
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5722159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -6.9972}
+        - {x: -12, y: -2.9972}
+        - {x: -12, y: 4.0028}
+        - {x: -11, y: 7.0028}
+        - {x: 12, y: 7.0028}
+        - {x: 12, y: 1.0028}
+        - {x: 7, y: -6.9972}
+      physicsShape:
+      - - {x: -11, y: 6.0028}
+        - {x: -11, y: -1.9972}
+        - {x: -3, y: -6.9972}
+        - {x: 8, y: -6.9972}
+        - {x: 11, y: 0.002800465}
+        - {x: 11, y: 6.0028}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a25b98447648859fdc7fb7618a824e
+      internalID: 21300032
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
